@@ -72,6 +72,6 @@ void irpair()
 }                                                                    
 ```
 ## Output  :
-<img height=30% width=60% src="https://github.com/KSIHORE/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/151484879/dcbbe186-bce9-4486-9760-2f2a72fb0194"><img height=30% width=60% src="https://github.com/KSIHORE/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/151484879/d0032662-d938-48b6-b471-04ee782c481a">
+<img height=40% width=50% src="https://github.com/KSIHORE/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/151484879/dcbbe186-bce9-4486-9760-2f2a72fb0194"><img height=40% width=50% src="https://github.com/KSIHORE/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/151484879/d0032662-d938-48b6-b471-04ee782c481a">
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
